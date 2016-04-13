@@ -1,1 +1,1 @@
-# africa
+# This repository is the working home for data generated for research on the scientific landscape for biodiversity and traditional knowledge. There is nothing here at the moment but there will be in the future.
